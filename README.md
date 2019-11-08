@@ -1,2 +1,2 @@
 # pyt_s
-smalll python programs
+Smalll python programs
